@@ -5,17 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src="" className="App-logo" alt="em Manutenção" />
-        <p> 
-          Pagina <code>será uma</code> loja de vendas de landind pages.
-        </p>
-        <a
-          className="App-link"
-          href="https://github.com/ElaineMoreira/sales_elaine"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Em construção
-        </a>
+        <h1>Escolha sua Landind Page</h1>
       </header>
     </div>
   );
