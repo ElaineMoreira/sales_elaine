@@ -1,5 +1,5 @@
 import './App.css';
-
+// https://www.npmjs.com/package/slick-carousel
 function App() {
   return (
     <div className="App">
