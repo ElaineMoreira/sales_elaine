@@ -25,5 +25,13 @@ export const images = [
     id: uuidv4(),
     url: "https://github.com/ElaineMoreira/sales_elaine/blob/main/src/images/sapatos.jpg?raw=true"   
   },
+  {
+    id: uuidv4(),
+    url: "https://github.com/ElaineMoreira/sales_elaine/blob/main/src/images/livros.jpg?raw=true"   
+  },
+  {
+    id: uuidv4(),
+    url: "https://github.com/ElaineMoreira/sales_elaine/blob/main/src/images/manicure.jpg?raw=true"   
+  },
 ]
 
