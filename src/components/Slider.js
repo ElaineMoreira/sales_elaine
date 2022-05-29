@@ -21,13 +21,13 @@ function ImageSlider() {
               <img src="https://github.com/ElaineMoreira/sales_elaine/blob/main/src/images/construcao.jpg?raw=true" alt='construcao'/>
             </div>
             <ul className='social-icons'>
-              <li><a href=''></a><i className='fa fa-instagram'></i></li>
+              {/* <li><a href='#'></a><i className='fa fa-instagram'></i></li>
               <li><a href='#'></a><i className='fa fa-github'></i></li>
-              <li><a href='#'></a><i className='fa fa-linkedin'></i></li>
+              <li><a href='#'></a><i className='fa fa-linkedin'></i></li> */}
             </ul>
-            {/* <div className='details'>
-              <h2>Construção<spam class='job-title'>Landing Pages para Construção</spam></h2>
-            </div> */}
+            <div className='details'>
+              <h2><spam class='job-title'>Pages para Construção</spam></h2>
+            </div>
         </div>
         
       </div>
