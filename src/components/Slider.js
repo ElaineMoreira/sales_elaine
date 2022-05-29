@@ -14,8 +14,10 @@ function ImageSlider() {
     cssEase:"linear"
   }
   return(
+    
     <Slider {...settings}>
       {/* {card 1} */}
+      
       <div className='card-wrapper'>
         <div className='card'>
             <div className='card-image'>
