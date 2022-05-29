@@ -15,6 +15,7 @@ function ImageSlider() {
   }
   return(
     <Slider {...settings}>
+      {/* {card 1} */}
       <div className='card-wrapper'>
         <div className='card'>
             <div className='card-image'>
@@ -31,6 +32,24 @@ function ImageSlider() {
         </div>
         
       </div>
+      {/* {card 2} */}
+      <div className='card-wrapper'>
+        <div className='card'>
+            <div className='card-image'>
+              <img src="https://github.com/ElaineMoreira/sales_elaine/blob/main/src/images/cosmeticos.jpg?raw=true" alt='cosmeticos'/>
+            </div>
+            <ul className='social-icons'>
+              {/* <li><a href='#'></a><i className='fa fa-instagram'></i></li>
+              <li><a href='#'></a><i className='fa fa-github'></i></li>
+              <li><a href='#'></a><i className='fa fa-linkedin'></i></li> */}
+            </ul>
+            <div className='details'>
+              <h2><spam class='job-title'>Pages para Cosméticos</spam></h2>
+            </div>
+        </div>
+        
+      </div>
+      {/* {card 3} */}
       
     </Slider>
   )
